@@ -126,3 +126,7 @@ This project implements a Model Context Protocol (MCP) integration between Curso
 ## License
 
 MIT
+
+## Acknowledgments
+
+This project is based on [cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) by [Sonny Lazuardi](https://github.com/sonnylazuardi), which is licensed under the MIT License.
